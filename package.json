@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-abettermap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Preferred config for ESLint, TypeScript, and Prettier",
   "main": "index.js",
   "private": false,
